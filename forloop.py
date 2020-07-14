@@ -2,4 +2,4 @@ for x in range(6):
  print("git works")
 
 print("done with for loops")
-print("done with for loops while loops left")
+print("done with for loops while loops left and also do while")
