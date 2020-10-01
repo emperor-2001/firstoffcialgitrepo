@@ -1,4 +1,9 @@
 # firstoffcialgitrepo
-This is just part of my learning process for git
+
+# This is just part of my learning process
+
 # Vinayak here
-# RG here
+# patch-1
+# Sachin 
+# RG h
+# master
